@@ -1,0 +1,8 @@
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\bin\Debug\Baitap2_ThongTinChiTietIP.exe.config
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\bin\Debug\Baitap2_ThongTinChiTietIP.exe
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\bin\Debug\Baitap2_ThongTinChiTietIP.pdb
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\obj\Debug\Baitap2_ThongTinChiTietIP.csproj.AssemblyReference.cache
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\obj\Debug\Baitap2_ThongTinChiTietIP.csproj.SuggestedBindingRedirects.cache
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\obj\Debug\Baitap2_ThongTinChiTietIP.csproj.CoreCompileInputs.cache
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\obj\Debug\Baitap2_ThongTinChiTietIP.exe
+Z:\2312760_BienTranAnhThu_Lab01\Baitap2_ThongTinChiTietIP\obj\Debug\Baitap2_ThongTinChiTietIP.pdb
