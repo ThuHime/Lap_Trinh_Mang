@@ -1,0 +1,8 @@
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\bin\Debug\2312760_BienTranAnhThu_Lab02.exe.config
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\bin\Debug\2312760_BienTranAnhThu_Lab02.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\bin\Debug\2312760_BienTranAnhThu_Lab02.pdb
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\obj\Debug\BaiTap1.csproj.AssemblyReference.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\obj\Debug\2312760_BienTranAnhThu_Lab02.exe.config
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\obj\Debug\BaiTap1.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\obj\Debug\2312760_BienTranAnhThu_Lab02.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\2312760_BienTranAnhThu_Lab02\obj\Debug\2312760_BienTranAnhThu_Lab02.pdb
