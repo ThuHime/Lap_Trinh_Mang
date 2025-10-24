@@ -1,0 +1,8 @@
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\bin\Debug\BaiTap3_UDPClient.exe.config
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\bin\Debug\BaiTap3_UDPClient.exe
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\bin\Debug\BaiTap3_UDPClient.pdb
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\obj\Debug\BaiTap3_UDPClient.csproj.AssemblyReference.cache
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\obj\Debug\BaiTap3_UDPClient.csproj.SuggestedBindingRedirects.cache
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\obj\Debug\BaiTap3_UDPClient.csproj.CoreCompileInputs.cache
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\obj\Debug\BaiTap3_UDPClient.exe
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap3_UDPClient\obj\Debug\BaiTap3_UDPClient.pdb
