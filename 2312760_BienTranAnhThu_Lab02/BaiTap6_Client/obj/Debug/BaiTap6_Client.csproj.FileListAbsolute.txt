@@ -1,0 +1,8 @@
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\bin\Debug\BaiTap6_Client.exe.config
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\bin\Debug\BaiTap6_Client.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\bin\Debug\BaiTap6_Client.pdb
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\obj\Debug\BaiTap6_Client.csproj.AssemblyReference.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\obj\Debug\BaiTap6_Client.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\obj\Debug\BaiTap6_Client.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\obj\Debug\BaiTap6_Client.pdb
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap6_Client\obj\Debug\BaiTap6_Client.exe.config

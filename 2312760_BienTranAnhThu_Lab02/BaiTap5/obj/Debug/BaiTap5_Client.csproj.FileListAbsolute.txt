@@ -1,0 +1,8 @@
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\bin\Debug\BaiTap5.exe.config
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\bin\Debug\BaiTap5.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\bin\Debug\BaiTap5.pdb
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\obj\Debug\BaiTap5_Client.csproj.AssemblyReference.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\obj\Debug\BaiTap5.exe.config
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\obj\Debug\BaiTap5_Client.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\obj\Debug\BaiTap5.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab02\BaiTap5\obj\Debug\BaiTap5.pdb
