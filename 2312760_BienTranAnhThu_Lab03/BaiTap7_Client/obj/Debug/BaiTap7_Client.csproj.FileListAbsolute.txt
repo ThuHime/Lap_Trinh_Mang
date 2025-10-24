@@ -1,0 +1,16 @@
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\bin\Debug\BaiTap7_Client.exe.config
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\bin\Debug\BaiTap7_Client.exe
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\bin\Debug\BaiTap7_Client.pdb
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.csproj.AssemblyReference.cache
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.csproj.SuggestedBindingRedirects.cache
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.csproj.CoreCompileInputs.cache
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.exe
+Z:\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.pdb
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\bin\Debug\BaiTap7_Client.exe.config
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\bin\Debug\BaiTap7_Client.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\bin\Debug\BaiTap7_Client.pdb
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.csproj.AssemblyReference.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.exe.config
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.exe
+D:\Study\LapTrinhMang\2312760_BienTranAnhThu_Lab03\BaiTap7_Client\obj\Debug\BaiTap7_Client.pdb
